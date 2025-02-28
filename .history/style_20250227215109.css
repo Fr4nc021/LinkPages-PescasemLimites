@@ -1,0 +1,17 @@
+body {
+    background: url(./midia/Foto_fundo_mobile.jpg) no-repeat center center/cover;
+    height: 100vh; /* Garante que o body ocupe 100% da altura da tela */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove padding padrão */
+}
+#profile img {
+    border: 1px solid red;
+    width: 112px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 50%; 
+    
+    
+
+}
